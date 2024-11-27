@@ -7,7 +7,7 @@ import styled from "styled-components"
 const Container = styled.div`
     display:flex;
     flex-wrap: wrap;
-    padding: 10px;
+    padding: 20px;
 `
 
 export default function Products() {
